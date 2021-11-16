@@ -2,4 +2,5 @@
 Created with CodeSandbox
 
 Udemy React講座 「React入門編」 authorじゃけぇ 
-・React Todoアプリ ソース
+
+・セクション7-React Todoアプリ ソース
